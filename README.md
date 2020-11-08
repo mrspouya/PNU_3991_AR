@@ -18,4 +18,3 @@
 [سمینار عادی](https://github.com/mrspouya/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
 [	سمینار تتبع](https://github.com/mrspouya/PNU_3991_AR/tree/main/MscSeminar-1)
-
