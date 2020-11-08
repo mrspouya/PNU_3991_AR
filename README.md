@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/mrspouya)
 
-- [رزومه](https://mrspouya.github.io/Resume/)
+- [رزومه]mrspouya.github.io
 
 - [SOP](https://mrspouya.github.io/SOP/)
 
