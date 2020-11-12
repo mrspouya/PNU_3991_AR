@@ -3,7 +3,7 @@
 ### افسانه پویا
  
 ---
-- [PNU_3991_AR](https://mrspouya/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/mrspouya/PNU_3991_AR)
 
 - [حساب گیت هاب](https://github.com/mrspouya)
 
