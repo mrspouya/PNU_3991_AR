@@ -9,7 +9,7 @@
 
 - [SOP](https://mrspouya.github.io/SOP/)
 
-- [Certificate js](https://www.sololearn.com/javaScript Certificatedf/js.pdf/)
+- [javaScript js](https://www.sololearn.com/js.pdf/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
