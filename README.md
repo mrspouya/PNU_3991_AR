@@ -13,7 +13,7 @@
 
 - [javaScript js](https://www.sololearn.com/Certificate/1024-20272271/pdf/)
 
-- [jlord patchwork](https://github.com/mrspouya/patchwork.git)
+- [jlord patchwork](https://mrspouya.github.io/patchwork/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
