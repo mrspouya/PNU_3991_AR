@@ -15,6 +15,8 @@
 
 - [jlord patchwork](https://mrspouya.github.io/patchwork/)
 
+- [LaTex](https://mrspouya.github.io/LaTex/)
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
