@@ -40,6 +40,6 @@
 
 - [خلاصه ارزیابی سمینارعادی](https://github.com/mrspouya/PNU_3991_AR/commit/31870bafdc8239eeb5e2738a7ad25f2e851a374f)
 
-- [خلاصه ارزیابی سمینارتتبع](
+- [خلاصه ارزیابی سمینارتتبع](https://github.com/mrspouya/PNU_3991_AR/commit/add61109d89a4b8d5dbf6f4afafc0c0651cdc124)
 
 
