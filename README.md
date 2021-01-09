@@ -26,3 +26,13 @@
 [سمینار عادی](https://github.com/mrspouya/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
 [	سمینار تتبع](https://github.com/mrspouya/PNU_3991_AR/tree/main/MscSeminar-1)
+------------------
+### ارزیابی ها
+
+بخش عمومی
+
+- [ارزیابی رزومه و انگیزه نامه](  
+
+-[خلاصه ارزیابی بخش عمومی](
+
+
