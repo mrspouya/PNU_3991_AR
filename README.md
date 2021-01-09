@@ -36,3 +36,10 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/mrspouya/PNU_3991_AR/blob/main/AF_GeneralSection_CheckList_AR_3991.pdf)
 
 
+بخش دروس ارشد
+
+- [خلاصه ارزیابی سمینارعادی](
+
+- [خلاصه ارزیابی سمینارتتبع](
+
+
