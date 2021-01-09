@@ -33,6 +33,6 @@
 
 - [ارزیابی رزومه و انگیزه نامه](  
 
-- [خلاصه ارزیابی بخش عمومی](
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mrspouya/PNU_3991_AR/blob/main/AF_GeneralSection_CheckList_AR_3991.pdf)
 
 
